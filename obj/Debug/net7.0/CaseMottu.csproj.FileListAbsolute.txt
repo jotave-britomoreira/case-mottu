@@ -1,0 +1,15 @@
+/home/jotave/Área de Trabalho/Mottu/Case/CaseMottu/bin/Debug/net7.0/CaseMottu
+/home/jotave/Área de Trabalho/Mottu/Case/CaseMottu/bin/Debug/net7.0/CaseMottu.deps.json
+/home/jotave/Área de Trabalho/Mottu/Case/CaseMottu/bin/Debug/net7.0/CaseMottu.runtimeconfig.json
+/home/jotave/Área de Trabalho/Mottu/Case/CaseMottu/bin/Debug/net7.0/CaseMottu.dll
+/home/jotave/Área de Trabalho/Mottu/Case/CaseMottu/bin/Debug/net7.0/CaseMottu.pdb
+/home/jotave/Área de Trabalho/Mottu/Case/CaseMottu/obj/Debug/net7.0/CaseMottu.csproj.AssemblyReference.cache
+/home/jotave/Área de Trabalho/Mottu/Case/CaseMottu/obj/Debug/net7.0/CaseMottu.GeneratedMSBuildEditorConfig.editorconfig
+/home/jotave/Área de Trabalho/Mottu/Case/CaseMottu/obj/Debug/net7.0/CaseMottu.AssemblyInfoInputs.cache
+/home/jotave/Área de Trabalho/Mottu/Case/CaseMottu/obj/Debug/net7.0/CaseMottu.AssemblyInfo.cs
+/home/jotave/Área de Trabalho/Mottu/Case/CaseMottu/obj/Debug/net7.0/CaseMottu.csproj.CoreCompileInputs.cache
+/home/jotave/Área de Trabalho/Mottu/Case/CaseMottu/obj/Debug/net7.0/CaseMottu.dll
+/home/jotave/Área de Trabalho/Mottu/Case/CaseMottu/obj/Debug/net7.0/refint/CaseMottu.dll
+/home/jotave/Área de Trabalho/Mottu/Case/CaseMottu/obj/Debug/net7.0/CaseMottu.pdb
+/home/jotave/Área de Trabalho/Mottu/Case/CaseMottu/obj/Debug/net7.0/CaseMottu.genruntimeconfig.cache
+/home/jotave/Área de Trabalho/Mottu/Case/CaseMottu/obj/Debug/net7.0/ref/CaseMottu.dll
